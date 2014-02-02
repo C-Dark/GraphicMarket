@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<config>
+	<modules>
+		<Haroonhussain_Graphicmarket>
+			<version> 0.0.1</version>
+		</Haroonhussain_Graphicmarket>
+	</modules>	
+</config>
+	
+	<global>
+
+		<models>
+
+
+		</models>
+
+
+		<events>
+
+
+
+		</events>
+
+
+
+
+
+
+
+		<helpers>
+
+		</helpers>
+
+		<resources>
+
+
+		</rescources>
+
+
+	</global>
+
+	<admin>  
+
+
+
+	</admin>
+
+	<-- For Admin controller -->
+	<adminhtml>
+
+
+		<events>
+
+
+		</events>
+
+		<acl>
+
+
+		</acl>
+		
+
+
+	</adminhtml>
+	</global>
